@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jira</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://manurm29.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [BGSRBNLNCH-4]&nbsp;<a href="https://manurm29.atlassian.net/browse/BGSRBNLNCH-4">Los detalles de los platillos solo se hacen visibles al interactuar con el nombre, la imagen del platillo junto con la flecha visible a la derecha</a>
+            <span class="subText">
+               Creada: 20/may/25                   &nbsp;Actualizada: 23/may/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">Tareas por hacer</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://manurm29.atlassian.net/secure/BrowseProject.jspa?id=10066">BugsUrbanLunch</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Error
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:0624dc1e-6bbd-4c4f-97c8-669df7052632"
+                id="word_reporter_712020:0624dc1e-6bbd-4c4f-97c8-669df7052632"
+                href="https://manurm29.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A0624dc1e-6bbd-4c4f-97c8-669df7052632">
+                    Manuel Rodriguez
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Persona asignada:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    sin asignar
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Sin resolver
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10331-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Ninguno
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Trabajo restante estimado:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Entorno:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Pixel 9 Pro Android 16 (Android studio)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Adjuntos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://manurm29.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="Archivo">
+                    Screen_recording_20250520_172749.webm &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Al momento de interactuar en cualquier lugar menos en los botones, el nombre del platillo o la imagen se redirige a la pantalla de detalles del platillo</p>
+
+<p><b>Resultado esperado</b></p>
+
+<p>La aplicación no manda ninguna respuesta</p>
+
+<p><b>Resultado actual</b></p>
+
+<p>La aplicación redirige al usuario a los detalles del platillo más cercano al cursor </p>
+
+
+<p><b>Pasos para replicar</b></p>
+
+<ol>
+	<li>Selecciona el punto de recogida deseado</li>
+	<li>interactúa en cualquier parte que no sea el nombre del platillo, imagen del platillo ni botones</li>
+</ol>
+
+
+<p><span class="nobr"><a href="/rest/api/3/attachment/content/10299" title="Screen_recording_20250520_172749.webm attached to BGSRBNLNCH-4" data-attachment-type="file" data-attachment-name="Screen_recording_20250520_172749.webm" data-media-services-type="file" data-media-services-id="7d97bca7-2654-4b1f-8ab2-36dc3a27e13c" rel="noreferrer">Screen_recording_20250520_172749.webm<sup><img class="rendericon" src="/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span></p>
+
+<div class="preformatted panel" style="border-width: 1px;"><div class="preformattedContent panelContent">
+<pre>2025-05-22 18:30:58.888 15799-15799 onCreated               com.example.urbanlunch               E  FoodDetailFragment{dd21dd8} (9a825821-a4f4-4b11-847c-ab0ad349fbe5 id=0x7f080089) onCreated
+2025-05-22 18:30:58.894 15799-15799 onViewCreated           com.example.urbanlunch               E  FoodDetailFragment{dd21dd8} (9a825821-a4f4-4b11-847c-ab0ad349fbe5 id=0x7f080089) onViewCreated
+2025-05-22 18:30:58.895 15799-15799 onViewDestroyed         com.example.urbanlunch               E  FoodListFragment{3ed203e} (e73877bc-cb95-4cf7-847c-5b007585fd58 id=0x7f080089) onViewDestroyed
+2025-05-22 18:30:58.895 15799-15799 onResume                com.example.urbanlunch               E  FoodDetailFragment{dd21dd8} (9a825821-a4f4-4b11-847c-ab0ad349fbe5 id=0x7f080089) Resumed
+</pre>
+</div></div>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [BGSRBNLNCH-3]&nbsp;<a href="https://manurm29.atlassian.net/browse/BGSRBNLNCH-3">El costo total del pedido incluye el coste de envío aparte de los platillos </a>
+            <span class="subText">
+               Creada: 20/may/25                   &nbsp;Actualizada: 20/may/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">Tareas por hacer</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://manurm29.atlassian.net/secure/BrowseProject.jspa?id=10066">BugsUrbanLunch</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Error
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Highest
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:0624dc1e-6bbd-4c4f-97c8-669df7052632"
+                id="word_reporter_712020:0624dc1e-6bbd-4c4f-97c8-669df7052632"
+                href="https://manurm29.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A0624dc1e-6bbd-4c4f-97c8-669df7052632">
+                    Manuel Rodriguez
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Persona asignada:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    sin asignar
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Sin resolver
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10330-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Ninguno
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Trabajo restante estimado:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Entorno:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Pixel 9 Pro Android 16 (Android studio)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Adjuntos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://manurm29.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Archivo PNG">
+                    image-20250520-225548.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://manurm29.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Archivo PNG">
+                    image-20250520-225624.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>¿Zona gris?, de acuerdo al documento de requisitos en el costo del pedido solo se ve reflejado la suma del valor de cada platillo, no se toman en cuenta tarifas de envío ¿faltan pasos?</p>
+
+<p><b>Resultado esperado</b></p>
+
+<p>La aplicación suma tanto el valor de cada platillo seleccionado junto con la tarifa de envío para dar el costo total del pedido</p>
+
+<p><b>Resultado actual</b></p>
+
+<p>La aplicación solo suma el valor total de todos los platillos seleccionados sin tomar en cuenta el envío</p>
+
+<p><b>Pasos para replicar</b></p>
+
+<ol>
+	<li>Selecciona el punto de recogida deseado</li>
+	<li>Agrega los platillos deseados</li>
+	<li>interactuar con el botón siguiente</li>
+</ol>
+
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10298" alt="image-20250520-225624.png" height="923" width="434" style="border: 0px solid black" /></span></p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10297" alt="image-20250520-225548.png" height="935" width="451" style="border: 0px solid black" /></span></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [BGSRBNLNCH-2]&nbsp;<a href="https://manurm29.atlassian.net/browse/BGSRBNLNCH-2">Se muestra el tiempo de preparación restante de los platillos </a>
+            <span class="subText">
+               Creada: 18/may/25                   &nbsp;Actualizada: 23/may/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">Tareas por hacer</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://manurm29.atlassian.net/secure/BrowseProject.jspa?id=10066">BugsUrbanLunch</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Error
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:0624dc1e-6bbd-4c4f-97c8-669df7052632"
+                id="word_reporter_712020:0624dc1e-6bbd-4c4f-97c8-669df7052632"
+                href="https://manurm29.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A0624dc1e-6bbd-4c4f-97c8-669df7052632">
+                    Manuel Rodriguez
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Persona asignada:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    sin asignar
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Sin resolver
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10297-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Ninguno
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Trabajo restante estimado:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Entorno:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Pixel 9 Pro Android 16 (Android studio)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Adjuntos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://manurm29.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Archivo PNG">
+                    image-20250518-234627.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Conforme a los requisitos se tiene que ser visible el tiempo restante para que los platillos estén listos </p>
+
+<p><b>Resultado esperado</b></p>
+
+<p>Se es visible el tiempo restante de la preparación de los pedidos junto con la lista de los platillos, el importe y el tiempo para su entrega</p>
+
+<p><b>Resultado actual</b> </p>
+
+<p>Se visualiza la lista de los platillos junto con el importe y el tiempo restante para su entrega </p>
+
+<p><b>Pasos para replicar</b></p>
+
+<ol>
+	<li>Selecciona un punto de recogida</li>
+	<li>Interactúa con el botón siguiente abajo a a derecha (fecha del lado derecho)</li>
+	<li>Selecciona algún platillo</li>
+	<li>Interactúa con el botón siguiente abajo a la derecha (flecha del lado derecho)</li>
+	<li>Utiliza el botón pedir situado en la esquina inferior derecha</li>
+</ol>
+
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10265" alt="image-20250518-234627.png" height="919" width="439" style="border: 0px solid black" /></span></p>
+
+<div class="preformatted panel" style="border-width: 1px;"><div class="preformattedContent panelContent">
+<pre>2025-05-22 18:34:40.970 15799-15799 onCreated               com.example.urbanlunch               E  OrderTrackFragment{2d88794} (8f401936-960e-4b33-82c7-7619dabe7780 id=0x7f080089) onCreated
+2025-05-22 18:34:40.987 15799-15799 onViewCreated           com.example.urbanlunch               E  OrderTrackFragment{2d88794} (8f401936-960e-4b33-82c7-7619dabe7780 id=0x7f080089) onViewCreated
+2025-05-22 18:34:40.989 15799-15799 onViewDestroyed         com.example.urbanlunch               E  FoodConfirmFragment{764d6ca} (663b98de-f9c9-4ade-8e2d-08ef19db9c89 id=0x7f080089) onViewDestroyed
+2025-05-22 18:34:40.989 15799-15799 onResume                com.example.urbanlunch               E  OrderTrackFragment{2d88794} (8f401936-960e-4b33-82c7-7619dabe7780 id=0x7f080089) Resumed
+2025-05-22 18:34:41.000 15799-15799 RecyclerView            com.example.urbanlunch               E  No adapter attached; skipping layout
+2025-05-22 18:34:41.071 15799-15799 TAG                     com.example.urbanlunch               E  initArgs: Bundle[{dest=DeliveryPoint(name=Enigma, coordinates=Point{type=Point, bbox=null, coordinates=[-118.233793, 34.046663]})}]
+2025-05-22 18:34:41.081 15799-15799 TAG                     com.example.urbanlunch               E  initArgs: DeliveryPoint(name=Enigma, coordinates=Point{type=Point, bbox=null, coordinates=[-118.233793, 34.046663]})
+2025-05-22 18:34:41.213 15799-15799 TAG                     com.example.urbanlunch               E  onRoutesReady: 1
+2025-05-22 18:34:41.236 15799-15799 TAG                     com.example.urbanlunch               E  onRoutesReady: 2
+2025-05-22 18:34:41.238 15799-15799 TAG                     com.example.urbanlunch               E  onRoutesReady: 3</pre>
+</div></div>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [BGSRBNLNCH-1]&nbsp;<a href="https://manurm29.atlassian.net/browse/BGSRBNLNCH-1">La pantalla de confirmación de pedido contiene un tiempo estimado de entrega</a>
+            <span class="subText">
+               Creada: 17/may/25                   &nbsp;Actualizada: 23/may/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">Tareas por hacer</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://manurm29.atlassian.net/secure/BrowseProject.jspa?id=10066">BugsUrbanLunch</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Error
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:0624dc1e-6bbd-4c4f-97c8-669df7052632"
+                id="word_reporter_712020:0624dc1e-6bbd-4c4f-97c8-669df7052632"
+                href="https://manurm29.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A0624dc1e-6bbd-4c4f-97c8-669df7052632">
+                    Manuel Rodriguez
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Persona asignada:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    sin asignar
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Sin resolver
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10264-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Ninguno
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Trabajo restante estimado:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Entorno:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Pixel 9 Pro Android 16 (Android studio)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Adjuntos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://manurm29.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Archivo PNG">
+                    image-20250518-232916.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Conforme a los requisitos dentro de la pantalla de confirmación del pedido tendría que ser visible un tiempo estimado para la entrega,</p>
+
+<p><b>Resultado esperado</b></p>
+
+<p>Es visible el tiempo estimado para la entrega junto con los platillos del pedido y el importe </p>
+
+<p><b>Resultado actual</b></p>
+
+<p>Se muestra solo el o los platillos junto con el importe </p>
+
+<p><b>Pasos para replicar</b></p>
+
+<ol>
+	<li>Seleccionar cualquier platillo</li>
+	<li>Utilizar el botón siguiente (flecha hacia la derecha)</li>
+</ol>
+
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10264" alt="image-20250518-232916.png" height="922" width="439" style="border: 0px solid black" /></span></p>
+
+<div class="preformatted panel" style="border-width: 1px;"><div class="preformattedContent panelContent">
+<pre>2025-05-22 18:32:14.985 15799-15799 onCreated               com.example.urbanlunch               E  FoodConfirmFragment{db097fd} (97d1f732-0afe-4f99-939b-9686960fd3db id=0x7f080089) onCreated
+2025-05-22 18:32:14.991 15799-15799 onViewCreated           com.example.urbanlunch               E  FoodConfirmFragment{db097fd} (97d1f732-0afe-4f99-939b-9686960fd3db id=0x7f080089) onViewCreated
+2025-05-22 18:32:14.992 15799-15799 onViewDestroyed         com.example.urbanlunch               E  FoodListFragment{3ed203e} (e73877bc-cb95-4cf7-847c-5b007585fd58 id=0x7f080089) onViewDestroyed
+2025-05-22 18:32:14.992 15799-15799 onResume                com.example.urbanlunch               E  FoodConfirmFragment{db097fd} (97d1f732-0afe-4f99-939b-9686960fd3db id=0x7f080089) Resumed
+</pre>
+</div></div>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generado a las Tue Jun 24 01:38:58 UTC 2025 por Manuel Rodriguez usando JIRA 1001.0.0-SNAPSHOT#100284-rev:d907bde92b738b372e98e5ffd846ee5173c38df9.
+
+</body>
+</html>
